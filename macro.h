@@ -8,5 +8,5 @@
  #define RBSIZE 12 // No. of subcarriers per resource block
  #define SYMBOL 6 // No. of OFDMA symbols per LTE-A frame
  #define MODULATION 1 // 1 for BPSK, 2 for QPSK, 4 for 16-QAM  and 6 for 64-QAM
- #define FRAME 10   // Framelength in milli-second
+ #define FRAME 1   // Framelength in milli-second
 
